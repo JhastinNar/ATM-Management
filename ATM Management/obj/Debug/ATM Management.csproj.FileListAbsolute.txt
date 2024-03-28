@@ -1,0 +1,18 @@
+D:\ATM\ATM Management\ATM Management\bin\Debug\ATM Management.exe.config
+D:\ATM\ATM Management\ATM Management\bin\Debug\ATM Management.exe
+D:\ATM\ATM Management\ATM Management\bin\Debug\ATM Management.pdb
+D:\ATM\ATM Management\ATM Management\bin\Debug\Guna.UI2.dll
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.AssemblyReference.cache
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Properties.Resources.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.GenerateResource.cache
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.CoreCompileInputs.cache
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Mana.A4D1601E.Up2Date
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Management.exe
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM Management.pdb
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form1.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form2.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form3.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form4.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form5.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form6.resources
+D:\ATM\ATM Management\ATM Management\obj\Debug\ATM_Management.Form7.resources
